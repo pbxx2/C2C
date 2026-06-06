@@ -1,11 +1,12 @@
 - [x] Confirm wipe (user approved deletion)
-- [x] Create `README.md`
+- [x] Create `README.md` (now `Chud2Chad`)
 - [x] Create `TODO.md`
-- [x] Remove existing project files (kept only README/TODO)
-- [ ] Push changes to remote (optional)
+- [x] Add `LICENSE` and `.gitignore`
+- [x] Remove existing project files (kept only README/TODO/LICENSE/.gitignore)
+- [x] Commit and push changes (initial clean state)
 
 Immediate next tasks:
 
-1. Recreate project skeleton when ready (decide framework/language)
-2. Add minimal CI and license
-3. Implement MVP features incrementally
+1. Add starter skeleton (`package.json`, `src/`, minimal UI)
+2. Add CI workflow and code style checks
+3. Draft MVP feature list and milestones
